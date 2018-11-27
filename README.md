@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+One of the biggest challenges in my opinion was just getting used to the new environment and understanding the various aspects that are part of Android Studio. In addition, because we are given the freedom to choose how to update the app after implementing the initial requirements, it took me some time to decide on the kind of updates I wanted to include in the app. 
 
 ## License
 
