@@ -41,6 +41,6 @@ public class EditItemActivity extends AppCompatActivity {
         // set the intent as the result of the activity
         setResult(RESULT_OK, i);
         // close the activity and redirect to main
-        finish();
+        finish(); // ends the edit 
     }
 }
